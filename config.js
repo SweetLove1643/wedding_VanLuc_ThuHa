@@ -13,18 +13,18 @@ const weddingConfig = {
     // ==========================================
     couple: {
         groom: {
-            fullName: "Nguyễn Văn Công",           // Tên đầy đủ chú rể
-            firstName: "Văn Công",                 // Tên gọi ngắn
-            phone: "0999999999",                 // Số điện thoại (tùy chọn)
-            facebook: "",                        // Link Facebook (tùy chọn)
-            instagram: "",                       // Link Instagram (tùy chọn)
+            fullName: "Phan Văn Lực",           // Tên đầy đủ chú rể
+            firstName: "Văn Lực",                 // Tên gọi ngắn
+            phone: "0947119702",                 // Số điện thoại (tùy chọn)
+            facebook: "https://www.facebook.com/SweetLove09.11",                        // Link Facebook (tùy chọn)
+            instagram: "https://www.facebook.com/SweetLove09.11",                       // Link Instagram (tùy chọn)
         },
         bride: {
-            fullName: "Nguyễn Thị Thơ",          // Tên đầy đủ cô dâu
-            firstName: "Nguyễn Thơ",               // Tên gọi ngắn
-            phone: "0888888888",                 // Số điện thoại (tùy chọn)
-            facebook: "",                        // Link Facebook (tùy chọn)
-            instagram: "",                       // Link Instagram (tùy chọn)
+            fullName: "Nguyễn Thu Hà",          // Tên đầy đủ cô dâu
+            firstName: "Thu Hà",               // Tên gọi ngắn
+            phone: "0947119702",                 // Số điện thoại (tùy chọn)
+            facebook: "https://www.facebook.com/SweetLove09.11",                        // Link Facebook (tùy chọn)
+            instagram: "https://www.facebook.com/SweetLove09.11",                       // Link Instagram (tùy chọn)
         }
     }, 
 
@@ -33,14 +33,14 @@ const weddingConfig = {
     // ==========================================
     parents: {
         groom: {
-            father: "Ông Nguyễn Văn Chiến",           // Tên bố chú rể
-            mother: "Bà Nguyễn Thị Thảo",        // Tên mẹ chú rể
-            address: "Tư Thế, Trí Quả, Bắc Ninh" // Địa chỉ nhà trai
+            father: "Ông Phan Xuân Thời",           // Tên bố chú rể
+            mother: "Bà Nguyễn Thị Loan",        // Tên mẹ chú rể
+            address: "Thôn 1, Bắc Trạch, Quảng Trị" // Địa chỉ nhà trai
         },
         bride: {
-            father: "Ông Nguyễn Văn Huấn",             // Tên bố cô dâu - THAY ĐỔI
-            mother: "Bà Nguyễn Thị Thi",              // Tên mẹ cô dâu - THAY ĐỔI
-            address: "Thuận Thành, Bắc Ninh" // Địa chỉ nhà gái - THAY ĐỔI
+            father: "Ông Nguyễn Niệm",             // Tên bố cô dâu - THAY ĐỔI
+            mother: "Bà Lê Thị Bảy",              // Tên mẹ cô dâu - THAY ĐỔI
+            address: "Lai Thành 2, Hương Trà, TP.Huế" // Địa chỉ nhà gái - THAY ĐỔI
         }
     },
 
@@ -48,17 +48,17 @@ const weddingConfig = {
     // THÔNG TIN NGÀY CƯỚI
     // ==========================================
     wedding: {
-        date: "2025-11-30",                     // Định dạng: YYYY-MM-DD
-        time: "13:00",                          // Giờ tổ chức (24h format)
-        dayOfWeek: "Chủ Nhật",                   // Thứ trong tuần
-        lunarDate: "ngày 11 tháng 10 năm Ất Tỵ", // Âm lịch
+        date: "2026-05-05",                     // Định dạng: YYYY-MM-DD
+        time: "08:30",                          // Giờ tổ chức (24h format)
+        dayOfWeek: "Thứ 3",                   // Thứ trong tuần
+        lunarDate: "ngày 19 tháng 03 năm Bính Ngọ", // Âm lịch
         
         // Hiển thị đẹp
         displayDate: {
-            day: "30",
-            month: "11",
-            year: "2025",
-            monthText: "Tháng 11"
+            day: "05",
+            month: "05",
+            year: "202",
+            monthText: "Tháng 05"
         }
     },
 
@@ -67,15 +67,15 @@ const weddingConfig = {
     // ==========================================
     venue: {
         name: "Nhà Trai",               // Tên địa điểm
-        address: "Trí Quả",             // Địa chỉ chi tiết - THAY ĐỔI
-        district: "Thuận Thành",                   // Quận/Huyện - THAY ĐỔI
-        city: "Bắc Ninh",               // Thành phố
+        address: "Thôn 1",             // Địa chỉ chi tiết - THAY ĐỔI
+        district: "Bắc Trạch",                   // Quận/Huyện - THAY ĐỔI
+        city: "Quảng Trị",               // Thành phố
         
         // Link Google Maps
-        googleMapsUrl: "https://maps.app.goo.gl/PP57rDnyXbgNEVbM8",
+        googleMapsUrl: "https://maps.app.goo.gl/PoABemUR12Zgu3828",
         
         // Embed Google Maps (lấy từ Google Maps > Share > Embed)
-        googleMapsEmbed: "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d7176.46950918691!2d106.6573604!3d10.7965823!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x317529d96e56d9bd%3A0x205428f74d7f4ddb!2sThe%20ADORA%20Center!5e1!3m2!1svi!2s!4v1739789062931!5m2!1svi!2s"
+        googleMapsEmbed: "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3439.711056633516!2d106.4672222!3d17.697250000000004!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMTfCsDQxJzUwLjEiTiAxMDbCsDI4JzAyLjAiRQ!5e1!3m2!1svi!2s!4v1776674184410!5m2!1svi!2s"
     },
 
     // ==========================================
@@ -84,19 +84,22 @@ const weddingConfig = {
     images: {
         // Album ảnh cưới (6 ảnh)
         gallery: [
-            "images/1(1).jpg", 
-             "images/1(2).jpg",  
-              "images/1(3).jpg", 
-              "images/1(4).jpg", 
-              "images/1(5).jpg", 
-              "images/1(6).jpg", 
-              "images/1(7).jpg", 
-              "images/1(8).jpg", 
-              "images/1(9).jpg", 
-              "images/1(10).jpg", 
-              "images/1(11).jpg", 
-              "images/1(12).jpg", 
-              "images/1(13).jpg", 
+            "images/1.jpg", 
+             "images/1 (2).jpg",  
+              "images/1 (3).jpg", 
+              "images/1 (4).jpg", 
+              "images/1 (5).jpg", 
+              "images/1 (6).jpg", 
+              "images/1 (7).jpg", 
+              "images/1 (8).jpg", 
+              "images/1 (9).jpg", 
+              "images/1 (10).jpg", 
+              "images/1 (11).jpg", 
+              "images/1 (11).jpg", 
+              "images/1 (11).jpg", 
+              "images/1 (11).jpg", 
+              "images/1 (11).jpg", 
+              "images/1 (11).jpg", 
             
              ],
         
